@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Four">
+  <test thread-count="5" name="DatePicker">
+    <classes>
+      <class name="AssesmentThree.QuestionFour">
+      <methods>
+      <include name="openurl"></include>
+      <include name="todaysDateSelector"></include>
+      <include name="toSupport"></include>
+      <include name="futureDateSelector"></include>
+      </methods>
+      </class>
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

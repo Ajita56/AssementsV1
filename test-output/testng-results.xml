@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-11T17:42:55 CST" name="Default suite" finished-at="2023-01-11T17:42:58 CST" duration-ms="2683">
+    <groups>
+    </groups>
+    <test started-at="2023-01-11T17:42:55 CST" name="Default test" finished-at="2023-01-11T17:42:58 CST" duration-ms="2683">
+      <class name="AssesmentThree.MultipleDataTest">
+        <test-method signature="dataReceiverd(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:AssesmentThree.MultipleDataTest@3febb011]" started-at="2023-01-11T17:42:58 CST" name="dataReceiverd" data-provider="UserData" finished-at="2023-01-11T17:42:58 CST" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pavani katta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pavani_katta@gamil.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[987654321]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataReceiverd -->
+        <test-method signature="dataReceiverd(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:AssesmentThree.MultipleDataTest@3febb011]" started-at="2023-01-11T17:42:58 CST" name="dataReceiverd" data-provider="UserData" finished-at="2023-01-11T17:42:58 CST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uma maheswar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[uma_maheswari@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataReceiverd -->
+      </class> <!-- AssesmentThree.MultipleDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
